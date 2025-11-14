@@ -1,14 +1,19 @@
 .vac-container{
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     gap: 12px;
-    background: #FAFAFA;
 }
 
 .vac-block{
+    padding: 24px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    background: #FAFAFA;
+    width: 464px;
+    height: 319px;
+    border-radius: 24px;
 }
 
 .companyinfo{
@@ -30,6 +35,9 @@
         font-size: 16px;
         line-height: 120%;
         color: #818181;
+        display: flex;
+        flex-direction: row;
+        gap: 8.64px;
     }
 }
 
@@ -43,5 +51,7 @@
         font-size: 18px;
         font-weight: 400;
         border-radius: 7.76px;
+        padding: 6px 10px;
     }
+    
 }

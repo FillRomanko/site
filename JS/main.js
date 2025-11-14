@@ -1,7 +1,7 @@
-fetch('vacancies.json')
+fetch('../JS/vac.json')
     .then(response => response.json())
     .then(data => {
-        const container = document.getElementById('blocks-container');
+        const container = document.getElementById('vac-container');
         data.forEach(item => {
             const block = document.createElement('div');
             block.className = 'vac-block';
@@ -9,7 +9,7 @@ fetch('vacancies.json')
         <div class="companyinfo">
                 <div class="company">${item.company}</div>
             <div class="title">${item.title}</div>
-            <div class="location">${item.location}</div>
+            <div class="location"><img src="../images/geo.svg"><p>${item.location}, формат работы</p></div>
         </div>
         <div class="details">
             <div class="salary">${item.salary}</div>

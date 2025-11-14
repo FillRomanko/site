@@ -2,6 +2,10 @@
 @import url('fonts.css');
 @import url('vac.css');
 
+html {
+    scroll-behavior: smooth;
+}
+
 * {
    font-family: 'Geist', sans-serif;
     text-decoration: none;
@@ -13,6 +17,7 @@ body {
     justify-content: center;
     align-items: center;
     background: #f4f4f4;
+    gap: 12px;
 }
 
 header{
@@ -100,6 +105,7 @@ filters{
     width: 464px;
     background-color: #FAFAFA;
     border-radius: 24px;
+    height: fit-content;
 }
 
 search_name {
@@ -202,6 +208,40 @@ minmax{
             height: 50px;
             padding: 13.5px;
         }
+    }
+}
+
+footer{
+    width: 1440px;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    background-image: url("../images/footer.svg");
+    padding: 36px;
+    margin-bottom: 24px;
+    border-radius: 24px;
+    p{
+        width: 100%;
+    }
+    public_vac{
+        background: #0077FF;
+        color: white;
+        font-size: 18px;
+        font-weight: 400;
+        border-radius: 14px;
+        padding: 7px 24px;
+    }
+    links{
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        width: 100%;
+    }
+    a {
+        color: black;
+        font-size: 24px;
     }
 }
 

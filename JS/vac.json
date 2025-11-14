@@ -1,7 +1,7 @@
 [
   {
     "company": "T-Банк",
-    "title": "Художник концепт-арта",
+    "title": "Художник <br> концепт-арта",
     "location": "Москва",
     "salary": "280 000 ₽",
     "format": "Фулл-тайм",
@@ -10,6 +10,94 @@
   {
     "company": "Apple",
     "title": "UI/UX Дизайнер",
+    "location": "Москва",
+    "salary": "280 000 ₽",
+    "format": "Фулл-тайм",
+    "level": "Junior"
+  },
+  {
+    "company": "ВТБ",
+    "title": "Графический дизайнер",
+    "location": "Москва",
+    "salary": "280 000 ₽",
+    "format": "Фулл-тайм",
+    "level": "Junior"
+  },
+  {
+    "company": "T-Банк",
+    "title": "Промышленный дизайнер",
+    "location": "Москва",
+    "salary": "280 000 ₽",
+    "format": "Фулл-тайм",
+    "level": "Junior"
+  },
+  {
+    "company": "Apple",
+    "title": "Диджитал дизайнер",
+    "location": "Москва",
+    "salary": "280 000 ₽",
+    "format": "Фулл-тайм",
+    "level": "Junior"
+  },
+  {
+    "company": "T-Банк",
+    "title": "Художник концепт-арта",
+    "location": "Москва",
+    "salary": "280 000 ₽",
+    "format": "Фулл-тайм",
+    "level": "Junior"
+  },
+  {
+    "company": "T-Банк",
+    "title": "Промышленный дизайнер",
+    "location": "Москва",
+    "salary": "280 000 ₽",
+    "format": "Фулл-тайм",
+    "level": "Junior"
+  },
+  {
+    "company": "T-Банк",
+    "title": "Промышленный дизайнер",
+    "location": "Москва",
+    "salary": "280 000 ₽",
+    "format": "Фулл-тайм",
+    "level": "Junior"
+  },
+  {
+    "company": "T-Банк",
+    "title": "Промышленный дизайнер",
+    "location": "Москва",
+    "salary": "280 000 ₽",
+    "format": "Фулл-тайм",
+    "level": "Junior"
+  },
+  {
+    "company": "T-Банк",
+    "title": "Промышленный дизайнер",
+    "location": "Москва",
+    "salary": "280 000 ₽",
+    "format": "Фулл-тайм",
+    "level": "Junior"
+  },
+  {
+    "company": "ВТБ",
+    "title": "Графический дизайнер",
+    "location": "Москва",
+    "salary": "280 000 ₽",
+    "format": "Фулл-тайм",
+    "level": "Junior"
+  },
+  {
+    "company": "ВТБ",
+    "title": "Графический дизайнер",
+    "location": "Москва",
+    "salary": "280 000 ₽",
+    "format": "Фулл-тайм",
+    "level": "Junior"
+  },
+  {
+    "company": "ВТБ",
+    "title": "Графический дизайнер",
     "location": "Москва",
     "salary": "280 000 ₽",
     "format": "Фулл-тайм",
