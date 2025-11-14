@@ -1,5 +1,6 @@
 @import url('reset.css');
 @import url('fonts.css');
+@import url('vac.css');
 
 * {
    font-family: 'Geist', sans-serif;
@@ -204,13 +205,3 @@ minmax{
     }
 }
 
-.tag {
-    background-color: #207cf8;
-    color: white;
-    border: none;
-    border-radius: 8px;
-    margin-right: 10px;
-    padding: 8px 16px;
-    cursor: pointer;
-    font-size: 16px;
-}

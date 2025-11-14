@@ -1,5 +1,18 @@
 [
-  { "text": "280 000 ₽", "type": "salary" },
-  { "text": "Фулл-тайм", "type": "fulltime" },
-  { "text": "Junior", "type": "level" }
+  {
+    "company": "T-Банк",
+    "title": "Художник концепт-арта",
+    "location": "Москва",
+    "salary": "280 000 ₽",
+    "format": "Фулл-тайм",
+    "level": "Junior"
+  },
+  {
+    "company": "Apple",
+    "title": "UI/UX Дизайнер",
+    "location": "Москва",
+    "salary": "280 000 ₽",
+    "format": "Фулл-тайм",
+    "level": "Junior"
+  }
 ]
