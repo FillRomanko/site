@@ -1,4 +1,4 @@
-fetch('../JS/vac.json')
+fetch('JS/vac.json')
     .then(response => response.json())
     .then(data => {
         const container = document.getElementById('vac-container');
