@@ -9,7 +9,7 @@ fetch('JS/vac.json')
         <div class="companyinfo">
                 <div class="company">${item.company}</div>
             <div class="title">${item.title}</div>
-            <div class="location"><img src="../images/geo.svg"><p>${item.location}, формат работы</p></div>
+            <div class="location"><img src="images/geo.svg"><p>${item.location}, формат работы</p></div>
         </div>
         <div class="details">
             <div class="salary">${item.salary}</div>
